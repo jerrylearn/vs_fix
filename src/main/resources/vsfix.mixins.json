@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.jerryopen.vsfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "vsfix.refmap.json",
+  "mixins": [
+    "createstuff.GrapplinWhiskChainsLineProceduremixin",
+    "createstuff.GrapplinWhiskItemInHandTickProceduremixin",
+    "clockwork.proprllercontrollermixin",
+    "mekanism.TileEntityDigitalMinermixin",
+    "create.sail",
+    "comforts.BaseComfortsBlock",
+    "comforts.SleepingBagItem"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

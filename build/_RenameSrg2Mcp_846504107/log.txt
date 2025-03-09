@@ -1,0 +1,18 @@
+Java Launcher: D:\Program Files\Java\jdk-17\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\jerry\.gradle\caches\modules-2\files-2.1\curse.maven\controllable-317269\4598985\6d320d387cef4f4d418a014807323c9b881b7c64\controllable-317269-4598985.jar, --output, C:\Users\jerry\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\controllable-317269\4598985_mapped_official_1.20.1\controllable-317269-4598985_mapped_official_1.20.1.jar, --mcp, C:\Users\jerry\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\jerry\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\jerry\vsfix\build\_RenameSrg2Mcp_846504107
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\jerry\.gradle\caches\modules-2\files-2.1\curse.maven\controllable-317269\4598985\6d320d387cef4f4d418a014807323c9b881b7c64\controllable-317269-4598985.jar
+Output: C:\Users\jerry\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\controllable-317269\4598985_mapped_official_1.20.1\controllable-317269-4598985_mapped_official_1.20.1.jar
+MCP:    C:\Users\jerry\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Stripped signature entry data META-INF/MRCRAYFI.SF
+Stripped signature entry data META-INF/MRCRAYFI.RSA
+Stripped Manifest of sha digests
+Process complete

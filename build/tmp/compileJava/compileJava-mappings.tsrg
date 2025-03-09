@@ -1,0 +1,1 @@
+org/jerryopen/vsfix/mixin/comforts/SleepingBagItem appendHoverText (Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V m_7373_
