@@ -1,0 +1,15 @@
+Java Launcher: D:\Program Files\Java\jdk-17\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\jerry\vsfix\mods\valkyrienskies-120-2.5.0.jar, --output, C:\Users\jerry\.gradle\caches\forge_gradle\deobf_dependencies\blank\valkyrienskies-120\2.5.0_mapped_official_1.20.1\valkyrienskies-120-2.5.0_mapped_official_1.20.1.jar, --mcp, C:\Users\jerry\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\jerry\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\jerry\vsfix\build\_RenameSrg2Mcp_1220622860
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\jerry\vsfix\mods\valkyrienskies-120-2.5.0.jar
+Output: C:\Users\jerry\.gradle\caches\forge_gradle\deobf_dependencies\blank\valkyrienskies-120\2.5.0_mapped_official_1.20.1\valkyrienskies-120-2.5.0_mapped_official_1.20.1.jar
+MCP:    C:\Users\jerry\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

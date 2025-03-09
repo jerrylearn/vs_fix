@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: vsfix
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: vsfix
+Implementation-Version: 2.1.3-alpha-disabled-sail-wing
+Implementation-Vendor: 
+Implementation-Timestamp: 2025-02-20T21:19:44+0800
+MixinConfigs: vsfix.mixins.json
+
